@@ -1,3 +1,6 @@
-theme: jekyll-theme-minimal
 title: Penney Army
+logo: /img/penneysoldier.jpg
 description: We're a grass roots force supporting the matriarch of memes and more. In the trenches. Built from the bottom up. Formerly MrsPepeArmy.eth
+show_downloads: true
+theme: jekyll-theme-minimal
+
