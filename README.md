@@ -26,8 +26,8 @@ Penney may be the face of the project, but every character matters in our story.
 ## 6. Tokenomics
 The tokenomics of our community token will be tailored to nurture and grow Penney Army ecosystem, feature governance capabilities, and more. As every character and participant helps shape our narrative, these tokenomics will tie the success and sustainability of Penney to your participation.
 
-## 7. Live Roadmap
-Our [live roadmap](https://github.com/users/PenneyArmy/projects/1/views/1) outlines key milestones and events, encompassing everything from NFT fundraising, community token distribution, and development updates. Transparency and accountability are integral to Penney Army, and our roadmap serves to keep the community updated and engaged.
+## 7. Roadmap
+Our [roadmap](https://penneyarmy.com/#Roadmap) outlines key milestones and events, encompassing everything from NFT fundraising, community token distribution, and development updates. Transparency and accountability are integral to Penney Army, and our roadmap serves to keep the community updated and engaged.
 
 ## 8. Conclusion
 Penney Army isn't just an experiment in the meme space; it's an evolving narrative shaped by you, the community. Our aim is to create a sustainable, thriving ecosystem through NFTs, community tokens, and most importantly, your active participation. Together, we can redefine the future of memes and establish a pioneering bastion in the space.
